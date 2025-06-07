@@ -1,0 +1,9 @@
+youtube-transcript-api
+transformers
+sentence-transformers
+faiss-cpu
+gradio
+langchain
+chromadb
+accelerate
+torch

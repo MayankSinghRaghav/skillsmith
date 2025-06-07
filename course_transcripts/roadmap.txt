@@ -1,0 +1,36 @@
+
+    You are an expert learning designer. Read the following transcript and divide it into a learning roadmap.
+    Output a list of modules with a title, short description, and difficulty level.
+    
+    Transcript:
+    this massive course about foundational
+generative AI was originally recorded
+live we've put it all together into this
+one video this course offers insights
+into generative models and different
+Frameworks investigating the production
+of text and visual material produced by
+AI the course is taught by three
+experienced instructors okay I think uh
+we can start with the session so hello
+everyone good afternoon to all uh this
+is the very first session for the uh
+generative AI uh from today onwards we
+are going to start with a community
+session of generative AI so uh yes in
+today's session we'll be talking about
+that what all thing we are going to
+discuss uh throughout the sessions and
+uh this session actually it will be
+happening for uh upcoming two weeks and
+uh it will be on the same time I'm going
+to take the session from uh 3:00 p.m.
+onwards uh maybe 3: to 5 so here in this
+uh committee session we'll try to to
+discuss many more thing regarding the
+generative AI so we'll start from very
+ba
+    
+    Format:
+    1. Module Name - Description (Beginner/Intermediate/Advanced)
+    
