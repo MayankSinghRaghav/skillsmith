@@ -20,26 +20,5 @@ All automatically generated using LLMs. Just input a YouTube video URL, and Skil
 
 ---
 
-## 📸 Demo
 
-> Coming soon — upload a short screen recording to your GitHub or add [screenshots](#) here.
 
----
-
-## 📂 Project Structure
-
-skillsmith/
-├── backend/
-│ ├── transcript_extractor.py # Extracts transcript from YouTube videos
-│ ├── roadmap_gen.py # Generates a learning roadmap
-│ ├── flashcard_quiz_gen.py # Creates flashcards and quizzes
-│ ├── backend_gen.py # Integrates pipeline
-├── frontend/
-│ └── app.py # Gradio UI for interaction
-├── course_transcripts/
-│ ├── transcript.txt
-│ ├── roadmap.txt
-│ ├── flashcards.txt
-│ └── quizzes.txt
-├── requirements.txt
-└── README.md
